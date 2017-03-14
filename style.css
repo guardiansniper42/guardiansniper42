@@ -46,14 +46,5 @@ li:last-child {
 p {
    color: white;
 }
-div {
-    width: 100px;
-    height: 100px;
-    position: relative;
-    background-color: red;
-    animation-name: example;
-    animation-duration: 4s;
-    animation-iteration-count: infinite;
-}
 
 
