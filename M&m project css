@@ -6,3 +6,7 @@ body {
 p {
    color: white;
 }
+
+h {
+   color: white;
+}
